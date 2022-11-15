@@ -85,7 +85,7 @@ operating system, but sometimes requires additional software.
 
 #### Connecting using PC
 
-*Prerequisites*: You must have an SSH client. There are several free options but you should have installed [PuTTY.exe](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) at the begining of the workshop, and we're going to continue using that.
+*Prerequisites*: You must have an SSH client. There are several free options but you should be fine using [PuTTY.exe](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) or [MobaXterm](https://mobaxterm.mobatek.net/).
 
 
 1. Open PuTTY
